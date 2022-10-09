@@ -1,5 +1,14 @@
-C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Pet.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\service\map\OwnerServiceMap.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\service\map\VetServiceMap.java
 C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Vet.java
-C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\PetType.java
-C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Owner.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\service\CrudService.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\service\PetService.java
 C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Person.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\BaseEntity.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Pet.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\PetType.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\service\VetService.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Owner.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\service\map\AbstractMapService.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\service\map\PetServiceMap.java
+C:\Users\Daniil\IdeaProjects\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\service\OwnerService.java
